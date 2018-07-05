@@ -1,10 +1,10 @@
 .b-lowermenu{
 	background: #1e5fb3;
-	margin-top: 5%;
 }
 
 .b-lowermenu__head{
 	margin-bottom: 5%;
+	margin-top: 5%;
 }
 .b-lowermenu__line{
 	margin-top: 5%;
@@ -24,4 +24,8 @@
 
 .b-lowermenu__network{
 	margin-left: 5%;
+}
+
+.b-lowermenu__text{
+	color: #FFFFFF;
 }
