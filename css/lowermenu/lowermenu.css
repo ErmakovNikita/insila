@@ -29,3 +29,28 @@
 .b-lowermenu__text{
 	color: #FFFFFF;
 }
+
+.b-lowermenu__text:visited{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.b-lowermenu__text:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.b-lowermenu__textlin{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.b-lowermenu__textlin:hover{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+.b-lowermenu__textlin:visited{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
