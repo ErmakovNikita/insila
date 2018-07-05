@@ -1,0 +1,53 @@
+.b-content{
+	background: #f4f4f4;
+}
+
+.b-content__head{
+	text-align: center;
+	margin-top: 5%;
+}
+
+.b-content__h1{
+	font-size: 1.2vw;
+}
+
+.b-content__h2{
+	font-size: 3.5vw;
+}
+
+.b-content__h3{
+	margin-top: 5%;
+}
+
+.b-content__what{
+	margin-top: 10%;
+}
+
+.b-content__text{
+	margin-bottom: 25%;
+}
+
+.b-content__achievements{
+	font-size: ;
+	margin: 0;
+	color: #1e5fb3;
+}
+
+.b-content__school{
+	margin-bottom: 5%;
+}
+
+.b-content__down{
+	background: #f4f4f4;
+}
+
+.b-content__insila{
+	width: 100%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.b-content__img{
+	margin-bottom: 10px;
+	margin-top: 80px;
+}

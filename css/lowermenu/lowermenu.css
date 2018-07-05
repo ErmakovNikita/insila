@@ -1,0 +1,27 @@
+.b-lowermenu{
+	background: #1e5fb3;
+	margin-top: 5%;
+}
+
+.b-lowermenu__head{
+	margin-bottom: 5%;
+}
+.b-lowermenu__line{
+	margin-top: 5%;
+	border: none;
+	background-color: #FFFFFF; /* Цвет линии */
+	color: #FFFFFF; /* Цвет линии для IE6-7 */
+	height: 1px;
+}
+
+.b-lowermenu__social{
+	margin-top: 10%;
+}
+
+.b-lowermenu__botton{
+	margin-bottom: 5%;
+}
+
+.b-lowermenu__network{
+	margin-left: 5%;
+}
