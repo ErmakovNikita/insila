@@ -1,0 +1,31 @@
+.b-header{
+	margin: auto;
+	-moz-box-shadow: 0 0 30px rgba(0,0,0,0.3);
+	-webkit-box-shadow: 0 0 30px rgba(0,0,0,0.3);
+	box-shadow: 0 0 30px rgba(0,0,0,0.3);
+	min-width: 740px;
+	min-height: auto;
+}
+
+.b-header__logo{
+	margin-top: 2%;
+	width: 100%;
+	margin-bottom: 2%;
+}
+
+.b-header__phone{
+	margin: 0;
+	color: #0000ff;
+}
+
+.b-header__menu{
+	color: #000000;
+}
+
+.b-header__downphone{
+	font-size: 10px;
+}
+
+.b-header__nav{
+	margin-top: 1.5%;
+}
